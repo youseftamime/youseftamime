@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yousef Ahmed Tamim
 
-<!--
-**youseftamime/youseftamime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Computer Engineering student focused on cybersecurity and blue-team defense.
 
-Here are some ideas to get you started:
+## Focus
+- Defensive security and network fundamentals
+- Python and machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Training
+- Cisco Networking Academy: CCNA: Introduction to Networks (CCNA1 course completion)
+- Cisco Networking Academy: Introduction to Cybersecurity
+- AMIT: Basic Machine Learning
+
+## Projects
+- [Bank Deposit Predictor](https://github.com/youseftamime/project): a Python and Streamlit app using a Random Forest model.
