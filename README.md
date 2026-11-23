@@ -1,12 +1,8 @@
-# Hi, I'm Yousef Ahmed Tamim
+# Yousef Tamime
 
-I'm a fourth-year Computer Engineering student focused on cybersecurity and blue-team defense.
+Computer Engineering student focused on cybersecurity, networking and blue-team defense.
 
-## Focus
-- Defensive security and network fundamentals
-- Python and machine learning
-
-## Training
+## Certificates
 
 ### Cisco Networking Academy: CCNA: Introduction to Networks
 CCNA1 course completion.
